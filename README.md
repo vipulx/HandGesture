@@ -1,7 +1,3 @@
-Certainly! A README file is essential for any GitHub repository. It provides users with an overview of the project, how to install and use it, and any other relevant information. Here’s a basic template you can use and customize for your project:
-
----
-
 # Project Name
 
 ![Project Logo](path/to/logo.png) *(Optional)*
