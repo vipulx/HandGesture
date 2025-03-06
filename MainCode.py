@@ -1,4 +1,7 @@
-//Vipulx
+'''
+Github : vipulx
+linkedin : vipul0152
+'''
 import cv2
 import mediapipe as mp
 import pyautogui
